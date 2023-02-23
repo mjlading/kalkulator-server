@@ -1,16 +1,16 @@
 {
-  "events": [
+  "messages": [
     {
       "id": 1,
-      "name": "one"
-    },
+      "message": "Success"
+    }
+  ],
+  "reviews": [
     {
-      "id": 2,
-      "name": "two"
-    },
-    {
-      "id": 3,
-      "name": "three"
+      "id": 1,
+      "name": "TEST",
+      "email": "TESTEMAIL",
+      "message": "TESTMESSAGE"
     }
   ]
 }
